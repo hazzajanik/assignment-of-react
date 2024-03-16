@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": "1",
+      "recipe_name": "Chicken Stir-Fry",
+      "recipe_image": "https://i.postimg.cc/RFFBLjjz/Rectangle-20170.png",
+      "short_description": "A delicious and easy chicken stir-fry with basil and mushrooms.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushrooms"],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_name": "Vegetable Curry",
+      "recipe_image": "https://i.postimg.cc/8zXcQmND/Rectangle-20170-1.png",
+      "short_description": "A flavorful and nutritious vegetable curry made with fresh vegetables and spices.",
+      "ingredients": ["500 g mixed vegetables", "250 ml coconut milk", "100 g curry paste", "150 g tofu"],
+      "preparing_time": "40 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_name": "Pasta Primavera",
+      "recipe_image": "https://i.postimg.cc/RFFBLjjz/Rectangle-20170.png",
+      "short_description": "A light and colorful pasta dish loaded with seasonal vegetables and herbs.",
+      "ingredients": ["400 g pasta", "300 g mixed vegetables", "100 g cherry tomatoes", "50 g parmesan cheese"],
+      "preparing_time": "25 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_name": "Grilled Salmon",
+      "recipe_image": "https://i.postimg.cc/RFFBLjjz/Rectangle-20170.png",
+      "short_description": "A simple and healthy grilled salmon recipe seasoned with lemon and herbs.",
+      "ingredients": ["4 salmon fillets", "2 lemons", "50 g olive oil", "Salt and pepper to taste"],
+      "preparing_time": "20 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_name": "Caprese Salad",
+      "recipe_image": "https://i.postimg.cc/RFFBLjjz/Rectangle-20170.png",
+      "short_description": "A classic Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
+      "ingredients": ["4 large tomatoes", "200 g fresh mozzarella cheese", "50 g fresh basil leaves", "30 ml balsamic vinegar"],
+      "preparing_time": "15 min",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_name": "Banana Bread",
+      "recipe_image": "https://i.postimg.cc/RFFBLjjz/Rectangle-20170.png",
+      "short_description": "A moist and delicious banana bread recipe that's perfect for breakfast or dessert.",
+      "ingredients": ["3 ripe bananas", "200 g all-purpose flour", "100 g sugar", "100 g butter"],
+      "preparing_time": "50 min",
+      "calories": "180 calories"
+    }
+  ]
+  
